@@ -30,7 +30,7 @@ Mobile 375px <br>
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://blog-preview-card-main-frontend-mentor.vercel.app
 
 ## My process
 
