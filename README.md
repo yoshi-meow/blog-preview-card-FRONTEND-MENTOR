@@ -25,7 +25,7 @@ Users should be able to:
 Desktop 1440px
 [![Opera-Snapshot-2024-01-05-171648-localhost.png](https://i.postimg.cc/5NfqTQWk/Opera-Snapshot-2024-01-05-171648-localhost.png)](https://postimg.cc/3WbvDRRg)
 
-Mobile 375px
+Mobile 375px <br>
 [![Opera-Snapshot-2024-01-05-171717-localhost.png](https://i.postimg.cc/DZV1g8c6/Opera-Snapshot-2024-01-05-171717-localhost.png)](https://postimg.cc/DWgWffH4)
 
 ### Links
