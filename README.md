@@ -36,7 +36,7 @@ Mobile 375px <br>
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5
 - React - JS library
 - Tailwind CSS - For styles
 
