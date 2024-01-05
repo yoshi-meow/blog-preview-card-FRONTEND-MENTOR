@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-shadow-box {
+  box-shadow: 8px 8px 0 0 #121212;
+}
+
+.custom-shadow-box:hover {
+  box-shadow: 15px 15px 0 0 #121212;
+  cursor: pointer;
+}
+
+.title:hover {
+  color: #F4D04E;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 375px) {
+  .custom-card {
+    width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .thumbnail {
+    width: auto;
+    height: 200px;
+    object-fit: cover;
+  }
+  .custom-badge{
+    margin-top: 1.5em;
+  }
+  .title {
+    font-size: 1.3em;
+    margin-top: 0.7em;
+  }
+  .custom-desc {
+    font-size: 0.8em;
+    margin-bottom: 1.5em;
+  }
+  .custom-date {
+    font-size: 0.8em;
+  }
+}
