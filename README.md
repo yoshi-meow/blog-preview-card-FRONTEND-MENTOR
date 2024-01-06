@@ -12,7 +12,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-## Overview
+## Overview 
 
 ### The challenge
 
